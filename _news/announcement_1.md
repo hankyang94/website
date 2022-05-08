@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2022-05-05 15:59:00-0400
 inline: true
 ---
 
-A simple inline announcement.
+Guest lecture on [certifiable perception](https://www.dropbox.com/s/1npx5hy034vfzdc/Certifiable_Perception_UWMadison_ME468.pdf?dl=0) at the University of Wisconsin-Madison
