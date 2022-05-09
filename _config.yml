@@ -6,7 +6,7 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Heng
 middle_name:
 last_name: Yang
-email: hankyang@seas.harvard.edu
+email:
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >
@@ -72,7 +72,7 @@ dblp_url: # your DBLP profile url
 stackoverflow_id: #your stackoverflow id
 
 contact_note: >
-
+  Email: <a href="mailto:hankyang@seas.harvard.edu">hankyang@seas.harvard.edu</a>. Download my <a href="http://localhost:4000/assets/pdf/CV_Yang.pdf">CV</a>.
 google_analytics:  # your google-analytics ID (format: UA-XXXXXXXXX)
 google_site_verification:  # your google-site-verification ID (Google Search Console)
 bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
@@ -244,9 +244,9 @@ filtered_bibtex_keywords: [abbr, abstract, arxiv, bibtex_show, html, pdf, select
 imagemagick:
   enabled: true
   widths:
-    - 600
+    - 480
     - 800
-    - 1400
+    - 1000
   input_directories:
     - assets/img/
   input_formats:

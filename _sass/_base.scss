@@ -168,6 +168,7 @@ blockquote {
   }
   .navbar-nav .nav-item .nav-link {
     color: var(--global-text-color);
+    text-transform: capitalize;
     &:hover {
       color: var(--global-hover-color);
     }
@@ -238,7 +239,7 @@ blockquote {
 .social {
   text-align: center;
   .contact-icons {
-    font-size: 4rem;
+    font-size: 2rem;
     a {
       i::before {
         color: var(--global-text-color);
@@ -515,6 +516,12 @@ footer.sticky-bottom {
         border: dashed 1px var(--global-bg-color);
       }
       div.abstract.hidden.open {
+        border-color: var(--global-text-color);
+      }
+      div.award.hidden {
+        border: dashed 1px var(--global-bg-color);
+      }
+      div.award.hidden.open {
         border-color: var(--global-text-color);
       }
     }

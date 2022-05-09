@@ -141,12 +141,22 @@
           {%- if entry.website %}
             <a href="{{ entry.website }}" class="btn btn-sm z-depth-0" role="button">Website</a>
           {%- endif %}
+          {%- if entry.award %}
+            <a class="award btn btn-sm z-depth-0" role="button">Award</a>
+          {%- endif %}
           </div>
 
           {% if entry.abstract -%}
           <!-- Hidden abstract block -->
           <div class="abstract hidden">
             <p>{{ entry.abstract }}</p>
+          </div>
+          {%- endif -%}
+
+          {% if entry.award -%}
+          <!-- Hidden award block -->
+          <div class="award hidden">
+            <p>{{ entry.award }}</p>
           </div>
           {%- endif -%}
 

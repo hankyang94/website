@@ -1,12 +1,12 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: (Incoming) <strong>Assistant Professor</strong>. Harvard School of Engineering and Applied Sciences.
 
 profile:
   align: right
-  image: hank-tall.jpg
+  image: hank.jpg
   address: Space Needle, 2022
 
 news: true  # includes a list of news items
@@ -26,6 +26,4 @@ I will be a research scientist in the [NVIDIA Autonomous Vehicle Research Group]
 - Convex optimization for estimation, decision making, and learning 
 
 **Prospective Students**: I have PhD and Postdoc openings in my group at Harvard. I am interested in working with self-motivated candidates with (a) a strong theoretical and computational background (*e.g.*, applied math, optimization, statistics, machine learning, and numerical computing), and/or (b) rich experiences in real robotic platforms such as drones, manipulators, and ground vehicles. Due to the large volume of inquiries, I may not be able to reply to all emails, and I apologize for this.
-
-Contact me: hankyang@seas.harvard.edu
 
