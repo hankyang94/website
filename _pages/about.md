@@ -22,8 +22,10 @@ I will be a research scientist in the [NVIDIA Autonomous Vehicle Research Group]
 
 **Current Interests**: I am currently interested in three challenges. 
 - Trustworthy robot perception with learned modules
-- Perception-based planning and control under uncertainty
+- Perception-based planning and control with performance guarantees
 - Convex optimization for estimation, decision-making, and learning 
 
-**Prospective Students**: I have PhD and Postdoc openings in my group at Harvard. I am interested in working with self-motivated candidates with (a) a strong theoretical and computational background (*e.g.*, applied math, optimization, statistics, machine learning, and numerical computing), and/or (b) rich experiences in real robotic platforms such as drones, manipulators, and ground vehicles. Due to the large volume of inquiries, I may not be able to reply to all emails, and I apologize for this.
+**Prospective Students**: I have PhD and Postdoc openings in my group at Harvard. I am interested in working with self-motivated candidates with (a) a strong theoretical and computational background (*e.g.*, applied math, optimization, statistics, machine learning, and numerical computing), and/or (b) rich experiences in real robotic platforms such as drones, manipulators, and ground vehicles. 
+
+Due to the large volume of inquiries, I may not be able to reply to all emails, and I apologize for this.
 
