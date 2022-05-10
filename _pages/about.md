@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: (Incoming) <strong>Assistant Professor</strong>. Harvard School of Engineering and Applied Sciences.
+subtitle: (Incoming) <strong>Assistant Professor</strong> <br> Robotics, Computer Vision, Optimization, Learning <br> School of Engineering and Applied Sciences, Harvard University
 
 profile:
   align: right
