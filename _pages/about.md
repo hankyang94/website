@@ -6,7 +6,7 @@ subtitle: (Incoming) <strong>Assistant Professor</strong>. Harvard School of Eng
 
 profile:
   align: right
-  image: hank-tall.jpg
+  image: hank_tall.jpg
   address: Space Needle, 2022
 
 news: true  # includes a list of news items
