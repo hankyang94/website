@@ -144,6 +144,9 @@
           {%- if entry.award %}
             <a class="award btn btn-sm z-depth-0" role="button">Award</a>
           {%- endif %}
+          {%- if entry.news %}
+            <a href="{{ entry.news }}" class="btn btn-sm z-depth-0" role="button">News</a>
+          {%- endif %}
           </div>
 
           {% if entry.abstract -%}

@@ -1,7 +1,74 @@
----
----
-
 @string{aps = {American Physical Society,}}
+@string{rss = {Robotics: Science and Systems (RSS)}}
+@string{cvpr = {IEEE Conf. on Computer Vision and Pattern Recognition (CVPR)}}
+@string{icra = {IEEE Intl. Conf. on Robotics and Automation (ICRA)}}
+@string{iccv = {Intl. Conf. on Computer Vision (ICCV)}}
+
+@article{Yang21arxiv-certifiable,
+  title={Certifiable Outlier-Robust Geometric Perception: Exact Semidefinite Relaxations and Scalable Global Optimization},
+  author={Yang, Heng and Carlone, Luca},
+  journal={arXiv preprint arXiv:2109.03349},
+  year={2021},
+  abbr={Preprint},
+  pdf={https://arxiv.org/pdf/2109.03349.pdf},
+  code={https://github.com/MIT-SPARK/CertifiablyRobustPerception}
+}
+
+
+@article{Yang21arxiv-stride,
+  title={An Inexact Projected Gradient Method with Rounding and Lifting by Nonlinear Programming for Solving Rank-One Semidefinite Relaxation of Polynomial Optimization},
+  author={Yang, Heng and Liang, Ling and Carlone, Luca and Toh, Kim-Chuan},
+  journal={arXiv preprint arXiv:2105.14033},
+  year={2021},
+  abbr={Preprint},
+  pdf={https://arxiv.org/pdf/2105.14033.pdf},
+  code={https://github.com/MIT-SPARK/STRIDE},
+  news={https://mp.weixin.qq.com/s/P7uMPexDxZ5aebkId9zi5w}
+}
+
+
+@inproceedings{Yang21iccv-damp,
+  title={Dynamical Pose Estimation},
+  author={Yang, Heng and Doran, Chris and Slotine, Jean-Jacques},
+  booktitle=iccv,
+  pages={5926--5935},
+  year={2021},
+  abbr={ICCV},
+  pdf={https://arxiv.org/pdf/2103.06182.pdf},
+  code={https://github.com/hankyang94/DAMP}
+}
+
+@inproceedings{Shi21icra-robin,
+  title={{ROBIN}: a graph-theoretic approach to reject outliers in robust estimation using invariants},
+  author={Shi, Jingnan and Yang, Heng and Carlone, Luca},
+  booktitle=icra,
+  pages={13820--13827},
+  year={2021},
+  organization={IEEE},
+  abbr={ICRA},
+  pdf={https://arxiv.org/pdf/2011.03659.pdf}
+}
+
+@inproceedings{Yang21cvpr-sgp,
+  title={Self-supervised geometric perception},
+  author={Yang, Heng and Dong, Wei and Carlone, Luca and Koltun, Vladlen},
+  booktitle=cvpr,
+  pages={14350--14361},
+  year={2021},
+  abbr={CVPR},
+  code={https://github.com/theNded/SGP},
+  pdf={https://arxiv.org/pdf/2103.03114.pdf}
+}
+
+@inproceedings{Shi21rss-pace,
+  title={Optimal Pose and Shape Estimation for Category-level {3D} Object Perception},
+  author={Shi, Jingnan and Yang, Heng and Carlone, Luca},
+  booktitle=rss,
+  pdf={https://arxiv.org/pdf/2104.08383.pdf},
+  year={2021},
+  abbr={RSS},
+  award={Best Paper Award Finalist, RSS 2021}
+}
 
 @article{Antonante21tro-outlier,
   title={Outlier-robust estimation: Hardness, minimally tuned algorithms, and applications},
@@ -10,7 +77,6 @@
   year={2021},
   publisher={IEEE},
   abbr={TRO},
-  bibtex_show={true},
   pdf={https://arxiv.org/pdf/2007.15109.pdf},
   code={https://github.com/MIT-SPARK/GNC-and-ADAPT}
 }
@@ -23,7 +89,6 @@
   pages={18846--18859},
   year={2020},
   abbr={NeurIPS},
-  bibtex_show={true},
   pdf={https://arxiv.org/pdf/2006.06769.pdf},
   code={https://github.com/MIT-SPARK/CertifiablyRobustPerception/tree/NeurIPS2020}
 }
@@ -35,7 +100,6 @@
   pages={1665--1674},
   year={2019},
   abbr={ICCV},
-  bibtex_show={true},
   pdf={https://arxiv.org/pdf/1905.12536.pdf},
   code={https://github.com/MIT-SPARK/CertifiablyRobustPerception/blob/master/RotationSearch/example_rotation_search.m}
 }
@@ -50,10 +114,10 @@
   year={2020},
   publisher={IEEE},
   abbr={RAL},
-  bibtex_show={true},
   pdf={https://arxiv.org/pdf/1909.08605.pdf},
   code={https://www.mathworks.com/help/nav/ref/trimloopclosures.html},
-  award={Best Paper Award in Robot Vision}
+  award={Best Paper Award in Robot Vision, ICRA 2020; Best Paper Award Honorable Mention, RAL 2020.},
+  news={https://www.mathworks.com/company/mathworks-stories/slam-mapping-algorithm-for-autonomous-vehicles.html}
 }
 
 @article{Yang20TRO-teaser,
@@ -66,75 +130,26 @@
   year={2020},
   publisher={IEEE},
   abbr={TRO},
-  bibtex_show={true},
   pdf={https://arxiv.org/pdf/2001.07715.pdf},
   code={https://github.com/MIT-SPARK/TEASER-plusplus}
 }
 
-@book{einstein1956investigations,
-  bibtex_show={true},
-  title={Investigations on the Theory of the Brownian Movement},
-  author={Einstein, Albert},
-  year={1956},
-  publisher={Courier Corporation,}
+@inproceedings{Yang19rss-teaser,
+  author={Yang, Heng and Carlone, Luca},
+  Title = {A Polynomial-time Solution for Robust Registration with Extreme Outlier Rates},
+  booktitle= rss,
+  pdf = "https://arxiv.org/pdf/1903.08588.pdf",
+  Year = {2019},
+  abbr={RSS},
+  code={https://github.com/MIT-SPARK/TEASER-plusplus},
+  news = {https://news.mit.edu/2019/spotting-objects-cars-robots-0620}
 }
 
-@article{einstein1950meaning,
-  abbr={AJP},
-  bibtex_show={true},
-  title={The meaning of relativity},
-  author={Einstein, Albert and Taub, AH},
-  journal={American Journal of Physics,},
-  volume={18},
-  number={6},
-  pages={403--404},
-  year={1950},
-  publisher={American Association of Physics Teachers,}
-}
-
-@article{PhysRev.47.777,
-  abbr={PhysRev},
-  title={Can Quantum-Mechanical Description of Physical Reality Be Considered Complete?},
-  author={Einstein, A. and Podolsky, B. and Rosen, N.},
-  abstract={In a complete theory there is an element corresponding to each element of reality. A sufficient condition for the reality of a physical quantity is the possibility of predicting it with certainty, without disturbing the system. In quantum mechanics in the case of two physical quantities described by non-commuting operators, the knowledge of one precludes the knowledge of the other. Then either (1) the description of reality given by the wave function in quantum mechanics is not complete or (2) these two quantities cannot have simultaneous reality. Consideration of the problem of making predictions concerning a system on the basis of measurements made on another system that had previously interacted with it leads to the result that if (1) is false then (2) is also false. One is thus led to conclude that the description of reality as given by a wave function is not complete.},
-  journal={Phys. Rev.,},
-  volume={47},
-  issue={10},
-  pages={777--780},
-  numpages={0},
-  year={1935},
-  month={May},
-  publisher=aps,
-  doi={10.1103/PhysRev.47.777},
-  url={http://link.aps.org/doi/10.1103/PhysRev.47.777},
-  html={https://journals.aps.org/pr/abstract/10.1103/PhysRev.47.777},
-  pdf={example_pdf.pdf},
-  selected={true}
-}
-
-@article{einstein1905molekularkinetischen,
-  title={{\"U}ber die von der molekularkinetischen Theorie der W{\"a}rme geforderte Bewegung von in ruhenden Fl{\"u}ssigkeiten suspendierten Teilchen},
-  author={Einstein, A.},
-  journal={Annalen der physik,},
-  volume={322},
-  number={8},
-  pages={549--560},
-  year={1905},
-  publisher={Wiley Online Library}
-}
-
-@article{einstein1905movement,
-  abbr={Ann. Phys.},
-  title={Un the movement of small particles suspended in statiunary liquids required by the molecular-kinetic theory 0f heat},
-  author={Einstein, A.},
-  journal={Ann. Phys.,},
-  volume={17},
-  pages={549--560},
-  year={1905}
-}
-
-@article{einstein1905electrodynamics,
-  title={On the electrodynamics of moving bodies},
-  author={Einstein, A.},
-  year={1905}
+@inproceedings{Yang20cvpr-shapeStar,
+  title={In Perfect Shape: Certifiably Optimal {3D} Shape Reconstruction from {2D} Landmarks},
+  author={Yang, Heng and Carlone, Luca},
+  booktitle=cvpr,
+  pdf="https://arxiv.org/pdf/1911.11924.pdf",
+  year={2020},
+  abbr={CVPR}
 }
