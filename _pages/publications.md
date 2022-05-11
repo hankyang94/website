@@ -2,10 +2,13 @@
 layout: page
 permalink: /publications/
 title: Publications
-description: Please see my <a href='https://scholar.google.com/citations?user=GuKEDfixZqsC&hl=en'>google scholar</a> for a full list of publications
+description:
 years: [2021,2020,2019]
 nav: true
 ---
+
+Please see my [Google Scholar](https://scholar.google.com/citations?user=GuKEDfixZqsC&hl=en) for a full list of publications.
+
 <!-- _pages/publications.md -->
 <div class="publications">
 

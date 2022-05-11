@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: (Incoming) <strong>Assistant Professor</strong> <br> Robotics, Computer Vision, Optimization, Learning <br> School of Engineering and Applied Sciences, Harvard University
+subtitle: (Incoming) <strong>Assistant Professor</strong> at Harvard SEAS <br> Robotics, Vision, Optimization, Learning
 
 profile:
   align: right
@@ -24,6 +24,8 @@ I will be a research scientist in the [NVIDIA Autonomous Vehicle Research Group]
 - Trustworthy robot perception with learned modules
 - Perception-based planning and control with performance guarantees
 - Convex optimization for estimation, decision-making, and learning 
+
+Read more about some of these topics in the sample [research statement](https://hankyang94.github.io/assets/pdf/Research_Statement_Generic.pdf) (November 2021).
 
 **Prospective Students**: I have PhD and Postdoc openings in my group at Harvard. I am interested in working with self-motivated candidates with (a) a strong theoretical and computational background (*e.g.*, applied math, optimization, statistics, machine learning, and numerical computing), and/or (b) rich experiences in real robotic platforms such as drones, manipulators, and ground vehicles. 
 
