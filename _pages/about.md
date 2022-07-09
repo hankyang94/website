@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: (Incoming) <strong>Assistant Professor</strong> at Harvard SEAS <br> Robotics, Vision, Optimization, Learning
+subtitle: <strong>Research Scientist</strong> at NVIDIA <br> (Incoming) <strong>Assistant Professor</strong> at Harvard SEAS <br>  Robotics, Vision, Optimization, Learning
 
 profile:
   align: right
