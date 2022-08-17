@@ -16,7 +16,8 @@ social: true  # includes social icons at the bottom of the page
 
 I am an incoming (Fall 2023) Assistant Professor of Electrical Engineering in the [School of Engineering and Applied Sciences](https://www.seas.harvard.edu/) (SEAS) at [Harvard University](https://www.harvard.edu/). I obtained my Ph.D. in Robotics in 2022 from the [Massachusetts Institute of Technology](https://mit.edu/), where I was fortunate to work with [Luca Carlone](https://lucacarlone.mit.edu/) in the [Laboratory for Information and Decision Systems](https://lids.mit.edu/). 
 
-I am currently a research scientist in the [NVIDIA Autonomous Vehicle Research Group](https://nvr-avg.github.io/) led by [Marco Pavone](https://web.stanford.edu/~pavone/).
+I am currently a research scientist in the [NVIDIA Autonomous Vehicle Research Group](https://nvr-avg.github.io/) led by [Marco Pavone](https://web.stanford.edu/~pavone/). 
+<span style="color:red">We have research intern positions all year at NVIDIA Autonomous Vehicle Research. If you are a PhD student interested in developing safety assurances and robustness guarantees for perception systems, or in general vehicle autonomy, feel free to contact me or other research scientists in the group.</span>
 
 **Computational Robotics**: I am building a computational robotics research group at Harvard University. My group is broadly interested in the **algorithmic foundations** of robot perception, action, and learning. Our vision is to enable **safe and trustworthy autonomy** for a broad range of high-integrity robotics applications, by designing **tractable and provably correct algorithms** that enjoy rigorous performance guarantees, developing **fast implementations**, and validating them on **real robotic systems**.
 
