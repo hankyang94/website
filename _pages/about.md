@@ -30,7 +30,7 @@ Read more about some of these topics in the sample [research statement](https://
 
 **Prospective Students**: I have PhD and Postdoc openings in my group at Harvard. I am also open to taking (undergraduate or graduate) research interns. 
 
-I am interested in working with self-motivated candidates with (a) a strong theoretical and computational background (*e.g.*, applied math, optimization, statistics, machine learning, and numerical computing), and/or (b) rich experiences in real robotic platforms such as drones, manipulators, and ground vehicles.
+I am interested in working with self-motivated candidates with (a) a strong theoretical and computational background (*e.g.*, applied math, optimization and control, statistics, machine learning, and scientific computing), and/or (b) rich experiences in real robotic platforms such as drones, manipulators, and ground vehicles.
 
 Due to the large volume of inquiries, I may not be able to reply to all emails, and I apologize for this.
 
