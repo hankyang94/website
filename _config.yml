@@ -120,7 +120,7 @@ collections:
     output: true
       
 
-news_limit: 20
+news_limit: 10
 awards_limit: 20
 
 # -----------------------------------------------------------------------------
