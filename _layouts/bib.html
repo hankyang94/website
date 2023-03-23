@@ -144,6 +144,9 @@
           {%- if entry.award %}
             <a class="award btn btn-sm z-depth-0" role="button">Award</a>
           {%- endif %}
+          {%- if entry.highlight %}
+            <a class="award btn btn-sm z-depth-0" role="button">Highlight</a>
+          {%- endif %}
           {%- if entry.news %}
             <a href="{{ entry.news }}" class="btn btn-sm z-depth-0" role="button">News</a>
           {%- endif %}
@@ -160,6 +163,13 @@
           <!-- Hidden award block -->
           <div class="award hidden">
             <p>{{ entry.award }}</p>
+          </div>
+          {%- endif -%}
+
+          {% if entry.highlight -%}
+          <!-- Hidden award block -->
+          <div class="award hidden">
+            <p>{{ entry.highlight }}</p>
           </div>
           {%- endif -%}
 
