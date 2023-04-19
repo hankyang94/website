@@ -31,7 +31,7 @@ Read more about some of these topics in the sample [research statement](https://
 
 **Prospective Students**: For PhD opportunities, please apply to the PhD program at Harvard SEAS (*e.g.*, in [EE](https://seas.harvard.edu/electrical-engineering/graduate-programs/how-apply)/[CS](https://seas.harvard.edu/computer-science/graduate-programs/how-apply)/[AM](https://seas.harvard.edu/applied-mathematics/graduate-program/how-apply)/[ME](https://seas.harvard.edu/materials-science-mechanical-engineering/graduate-program/how-apply)) and list me as a potential advisor. I am also open to taking (undergraduate or graduate) research interns.
 
-**Postdoc Fellow**: We have open Postdoc Fellow positions in Learning, Optimization, Control, and/or Robotics. Please apply [here](https://academicpositions.harvard.edu/postings/12212).
+<!-- **Postdoc Fellow**: We have open Postdoc Fellow positions in Learning, Optimization, Control, and/or Robotics. Please apply [here](https://academicpositions.harvard.edu/postings/12212). -->
 
 I am interested in working with self-motivated candidates with (a) a strong theoretical and computational background (*e.g.*, applied math, optimization and control, statistics, machine learning, and scientific computing), and/or (b) rich experiences in real robotic platforms (*e.g.*, drones, manipulators, ground vehicles).
 
