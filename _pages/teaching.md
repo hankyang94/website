@@ -10,10 +10,6 @@ nav: true
 ---
 ## Courses
 
-- Fall 2023: Harvard ES/AM 158: [Introduction to Optimal Control and Estimation](https://hankyang.seas.harvard.edu/OptimalControlEstimation/)
+- Harvard ES/AM 158: [Introduction to Optimal Control and Estimation](https://hankyang.seas.harvard.edu/OptimalControlEstimation/)
 
----
-
-## Book
-- [Optimal Control and Estimation](https://hankyang.seas.harvard.edu/OptimalControlEstimation/)
-    - Lecture notes for Harvard ES/AM 158
+- Harvard ES 257: [Semidefinite Optimization and Relaxation](https://hankyang.seas.harvard.edu/Semidefinite/)
