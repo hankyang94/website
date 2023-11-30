@@ -20,7 +20,9 @@ I am an Assistant Professor of Electrical Engineering in the [School of Engineer
 
 <!-- <span style="color:red">We have research intern positions all year at NVIDIA Autonomous Vehicle Research. If you are a PhD student interested in developing safety assurances and robustness guarantees for perception systems, or in general vehicle autonomy, feel free to contact me or other research scientists in the group.</span> -->
 
-I direct the **Computational Robotics Lab** at Harvard University. My group is broadly interested in the **algorithmic foundations** of robot perception, action, and learning. Our vision is to enable **safe and trustworthy autonomy** for a broad range of high-integrity robotics applications, by designing **tractable and provably correct algorithms** that enjoy rigorous performance guarantees, developing **fast implementations**, and validating them on **real robotic systems**.
+I direct the **Computational Robotics Lab** at Harvard University. My group studies the algorithmic foundations of robot perception, action, and learning. We are broadly interested in estimation and decision-making with performance gurantees. 
+
+<!-- the **algorithmic foundations** of robot perception, action, and learning. Our vision is to enable **safe and trustworthy autonomy** for a broad range of high-integrity robotics applications, by designing **tractable and provably correct algorithms** that enjoy rigorous performance guarantees, developing **fast implementations**, and validating them on **real robotic systems**. -->
 
 **Current Interests**: I am currently interested in three challenges. 
 - Trustworthy robot perception with learned modules
