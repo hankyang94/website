@@ -72,7 +72,7 @@ dblp_url: # your DBLP profile url
 stackoverflow_id: #your stackoverflow id
 
 contact_note: >
-  Email: <a href="mailto:hankyang@seas.harvard.edu">hankyang@seas.harvard.edu</a>. Download my <a href="https://hankyang94.github.io/assets/pdf/CV_Yang.pdf">CV</a>.
+  Email: hankyang (AT) seas (DOT) harvard (DOT) edu. Download my <a href="https://hankyang94.github.io/assets/pdf/CV_Yang.pdf">CV</a>.
 google_analytics:  # your google-analytics ID (format: UA-XXXXXXXXX)
 google_site_verification:  # your google-site-verification ID (Google Search Console)
 bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
